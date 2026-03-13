@@ -5,6 +5,7 @@ This project applies machine learning to optimize resource allocation in 5G netw
 
 The model predicts optimal bandwidth allocation based on:
 Application type
+
 Signal strength
 Latency requirements
 Required bandwidth
