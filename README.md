@@ -99,7 +99,5 @@ Matplotlib
 Web Development
 HTML
 CSS
-
 Flask
-
 Bootstrap
